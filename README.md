@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=700&height=45&lines=%3E+Hello+World!+I'm+Ahmed+Aref;%3E+Ethical+Hacker+%26+Offensive+Security;%3E+Digital+Forensics+%26+Incident+Response;%3E+Custom+Hacking+Tools+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=750&height=45&lines=%3E+Hello+World!+I'm+Ahmed+Aref;%3E+Ethical+Hacker+%26+Offensive+Security;%3E+Digital+Forensics+%26+Incident+Response;%3E+Custom+Hacking+Tools+Architect" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
 
-  [![HackTheBox](https://img.shields.io/badge/STATUS-ELITE%20OPERATOR-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/AhmedAref)
-  [![Kali Linux](https://img.shields.io/badge/SPECIALTY-PENTESTING%20%26%20DFIR-blue?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/AhmedAref)
+  [![Status](https://img.shields.io/badge/STATUS-ELITE%20OPERATOR-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/AhmedAref)
+  [![Specialty](https://img.shields.io/badge/SPECIALTY-PENTESTING%20%26%20DFIR-purple?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/AhmedAref)
   [![Security](https://img.shields.io/badge/SECURITY-OFFENSIVE%20OPS-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/AhmedAref)
 
 </div>
@@ -22,8 +22,8 @@
 
 - 🔭 **I'm currently working on:** Developing advanced penetration testing utilities and digital forensics scripts.
 - 🛡️ **Specialized in:** Cybersecurity, Ethical Hacking, Digital Forensics & Incident Response (DFIR).
-- 🧠 **Philosophy:** *“To secure the digital world, you must understand how it breaks.”*
-- ⚡ **Fun fact:** I build custom tools for professionals who secure the perimeter.
+- 🧠 **Philosophy:** *“To secure the digital world, you must deeply understand how systems break.”*
+- ⚡ **Fun fact:** I build custom tools for professionals who secure the digital perimeter.
 
 ---
 
