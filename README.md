@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=750&height=45&lines=%3E+Hello+World!+I'm+Ahmed+Aref;%3E+Ethical+Hacker+%26+Offensive+Security;%3E+Digital+Forensics+%26+Incident+Response;%3E+Custom+Hacking+Tools+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=800&height=45&lines=%3E+Welcome+to+Ahmed+Aref's+Cyber+Universe;%3E+Offensive+Security+%26+Advanced+Pentesting;%3E+Digital+Forensics+%26+Incident+Response+(DFIR);%3E+Professional+Hacking+Tools+%26+Apps+Architect" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,36 +12,36 @@
 
   [![Status](https://img.shields.io/badge/STATUS-ELITE%20OPERATOR-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/AhmedAref)
   [![Specialty](https://img.shields.io/badge/SPECIALTY-PENTESTING%20%26%20DFIR-purple?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/AhmedAref)
-  [![Security](https://img.shields.io/badge/SECURITY-OFFENSIVE%20OPS-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/AhmedAref)
+  [![Tools](https://img.shields.io/badge/APPS-SECURITY%20UTILITIES-success?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/AhmedAref)
 
 </div>
 
 ---
 
-### 💻 **About Me**
+### 💻 **[ EXECUTIVE SUMMARY: ABOUT ME ]**
 
-- 🔭 **I'm currently working on:** Developing advanced penetration testing utilities and digital forensics scripts.
-- 🛡️ **Specialized in:** Cybersecurity, Ethical Hacking, Digital Forensics & Incident Response (DFIR).
-- 🧠 **Philosophy:** *“To secure the digital world, you must deeply understand how systems break.”*
-- ⚡ **Fun fact:** I build custom tools for professionals who secure the digital perimeter.
+- 🔭 **I'm currently building:** Advanced penetration testing utilities, offensive security frameworks, and custom digital forensics tools.
+- 🛡️ **Core Expertise:** Ethical Hacking, Red Teaming, and Digital Forensics & Incident Response (DFIR).
+- 🧠 **Operational Philosophy:** *"To engineer unbreakable systems, you must first master the art of breaking them."*
+- ⚡ **Mission:** Developing professional, high-performance applications and scripts for elite security professionals.
 
 ---
 
-### 🛠️ **Tech Stack & Tools**
+### 🛠️ **[ TACTICAL ARSENAL & TECH STACK ]**
 
 <div align="center">
 
-| Category | Technologies & Tools |
+| Domain | Professional Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Security & DFIR** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-1D1D1D?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) |
-| **Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Offensive & Defensive Ops** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-1D1D1D?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) |
+| **Environment & Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 **[ TELEMETRY & GITHUB METRICS ]**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=purple-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -61,7 +61,7 @@
 
 ---
 
-### 🌐 **Connect With Me**
+### 🌐 **[ SECURE COMMS & FREQUENCIES ]**
 
 <div align="center">
 
